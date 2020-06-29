@@ -1,5 +1,8 @@
 # API RPG MASS EFFECT
 
+MPV project for RPG Mass Effect under construction, consists on a Rails API with game rules and character creation.
+
+
 * Ruby version '2.5.5'
 * Rails version '6.0.3.1'
 
